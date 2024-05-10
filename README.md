@@ -1,4 +1,4 @@
-# Rank Difference Calculator
+# La Liga de las Apuestas
 
 This Python script calculates the rank difference between a specified player and a list of other players in a game. It's particularly useful for gaming enthusiasts who want to compare their rank with others.
 
